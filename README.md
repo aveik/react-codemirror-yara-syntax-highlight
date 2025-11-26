@@ -3,7 +3,7 @@
 
 CSS styling is based on the popular [Solarized](https://ethanschoonover.com/solarized/) theme
 
-This is just an implementation for a use-case in my company. Extension is likely usable with the basic [`codemirror`](https://www.npmjs.com/package/codemirror) ([guide](https://codemirror.net/docs/guide/)) package, I just haven't tried it out yet
+This is just an implementation for a use-case in my company. Extension is likely usable with the basic [`codemirror`](https://www.npmjs.com/package/codemirror) package ([guide](https://codemirror.net/docs/guide/)), I just haven't tried it out yet
 
 <img width="524" height="494" alt="image" src="https://github.com/user-attachments/assets/ad1e84f1-5b9e-4383-9ca9-1841c72f2505" />
 
