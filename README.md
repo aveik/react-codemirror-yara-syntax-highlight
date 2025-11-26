@@ -1,7 +1,9 @@
 # react-codemirror-yara-syntax-highlight
-@uiw/react-codemirror extension to support highlighting for the YARA language
+`@uiw/react-codemirror` extension to support YARA language syntax highlighting
 
-<img width="544" height="525" alt="image" src="https://github.com/user-attachments/assets/c404f86c-0d43-4cd0-8578-5dd7f8d526bb" />
+CSS styling is based on the [Solarized](https://ethanschoonover.com/solarized/) theme
+
+<img width="524" height="494" alt="image" src="https://github.com/user-attachments/assets/ad1e84f1-5b9e-4383-9ca9-1841c72f2505" />
 
 
 ## Requirements
@@ -24,5 +26,8 @@ import { yaraLanguage ) from './yaraLanguage'
 ## Notes
 Works well with [Dark Reader](https://darkreader.org/)
 
+<img width="524" height="494" alt="image" src="https://github.com/user-attachments/assets/9383acb6-ef9a-42fe-ad3b-30348c9d099c" />
+
+
 ## Contributing
-You're welcome to create any PR's to improve any part of this repo, even this README.md
+Anyone is welcome to create any PR's to improve any part of this repo, even this README.md
