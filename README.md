@@ -1,4 +1,4 @@
-# react-codemirror-yara-highlight
+# react-codemirror-yara-syntax-highlight
 @uiw/react-codemirror extension to support highlighting for the YARA language
 
 <img width="544" height="525" alt="image" src="https://github.com/user-attachments/assets/c404f86c-0d43-4cd0-8578-5dd7f8d526bb" />
