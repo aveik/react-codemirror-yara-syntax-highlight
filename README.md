@@ -14,6 +14,10 @@ This is just an implementation for a use-case in my company. Extension is likely
 
 [`@codemirror/state`](https://www.npmjs.com/package/@codemirror/state)
 
+```bash
+npm install @uiw/codemirror @codemirror/view @codemirror/state
+```
+
 ## Usage
 - Copy the [`yaraLanguage.ts`](https://github.com/aveik/react-codemirror-yara-syntax-highlight/blob/main/yaraLanguage.ts) file into your project
 - Import the `yaraLanguage` object inside your React component and pass it into the `extensions` array prop:
