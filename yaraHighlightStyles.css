@@ -1,0 +1,67 @@
+/* Solarized Colors with White Background for YARA syntax highlighting */
+.cm-editor {
+    color: #657b83;
+}
+
+.cm-editor .cm-content {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    color: #657b83;
+}
+
+.cm-editor .cm-focused {
+    outline: none;
+}
+
+.cm-editor .cm-keyword {
+    color: #268bd2;
+    font-weight: bold;
+}
+
+.cm-editor .cm-string {
+    color: #2aa198;
+}
+
+.cm-editor .cm-comment {
+    color: #93a1a1;
+    font-style: italic;
+}
+
+.cm-editor .cm-number {
+    color: #d33682;
+}
+
+.cm-editor .cm-operator {
+    color: #859900;
+}
+
+.cm-editor .cm-meta {
+    color: #cb4b16;
+    font-weight: bold;
+}
+
+.cm-editor .cm-variableName {
+    color: #b58900;
+    font-weight: bold;
+}
+
+.cm-editor .cm-def {
+    color: #268bd2;
+    font-weight: bold;
+}
+
+.cm-editor .cm-atom {
+    color: #cb4b16;
+}
+
+.cm-editor .cm-cursor {
+    border-left-color: #586e75;
+}
+
+.cm-editor .cm-gutters {
+    color: #93a1a1;
+    border: none;
+}
+
+.cm-editor .cm-lineNumbers .cm-gutterElement {
+    color: #93a1a1;
+}
