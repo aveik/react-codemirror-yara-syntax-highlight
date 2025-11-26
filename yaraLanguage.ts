@@ -1,5 +1,6 @@
 import { Extension, RangeSetBuilder } from '@codemirror/state'
 import { Decoration, DecorationSet, EditorView, ViewPlugin, ViewUpdate } from '@codemirror/view'
+import './yaraHighlightStyles.css'
 
 /**
  * Main highlighting function that processes the entire document text
